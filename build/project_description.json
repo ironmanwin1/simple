@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "simple",
-    "project_version":    "1",
+    "project_version":    "9fa8557-dirty",
     "project_path":       "D:/Simple_sever/simple",
     "idf_path":           "C:/Users/spide/esp/v5.3.1/esp-idf",
     "build_dir":          "D:/Simple_sever/simple/build",
